@@ -9,5 +9,6 @@ public class Merhaba {
             System.out.println("Tekrar Merhaba");
         }
 
+        System.out.println("merhaba 4");
     }
 }
